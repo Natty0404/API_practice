@@ -47,4 +47,3 @@ class Api::V1::TasksController < ApplicationController
   end
 end
 
-end
